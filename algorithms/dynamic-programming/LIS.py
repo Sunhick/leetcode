@@ -20,3 +20,4 @@ for e in ar:
         l += 1
 
 print("LIS =", l)
+print(s)
